@@ -35,3 +35,4 @@ sequelize.sync({ force: false }).then(() => {
 
 
 // need better explaination on {{}}
+// serialize the data
